@@ -118,6 +118,7 @@ def utc_converter(dataset):
     data = data.drop(data.columns[-7:-1], axis=1)
     
     # join UTC time to dataset
-    dataset = dataset.join([data.dep_UTC_time, data.arr_UTC_time])
-    
+    dataset = dataset.loc[:,:'departure'].join([data.loc[:,'dep_UTC_time'], dataset.loc[:,'arrival'],
+                                           data.loc[:,'arr_UTC_time'], dataset.loc[:,'duration':]])
+      
     return(dataset)
