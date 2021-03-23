@@ -28,3 +28,13 @@ Place a module to a folder within your script and load it as a package:
 - The function takes a dataframe with 'METAR_origin' and 'METAR_destination' columns, _e.g. utc_converter(dataframe[['METAR_origin', 'METAR_destination']])_
 - The input METAR format should be like _"METAR KXWA 202251Z AUTO 26013KT 10SM CLR 04/M07 A2978 RMK AO2 SLP121 T00441072="_.
 - The function returns the same dataframe with added METAR decoded information. 
+
+## metar_scraper_origin
+- Required packages: os, glob, pandas, BeautifulSoup, urllib
+- Function takes a dataframe with columns 'tail_number', 'ICAO_origin', 'date', 'dep_UTC_time', and returns a folder with _csv_ files for each tail number which contains METAR data information. 
+- It also returns a concatenated _csv_ file.
+
+## metar_scraper_destination
+- Required packages: os, glob, pandas, BeautifulSoup, urllib
+- Function takes a dataframe with columns 'tail_number', 'ICAO_destination', 'date', 'arr_UTC_time', and returns a folder with _csv_ files for each tail number which contains METAR data information. 
+- It also returns a concatenated _csv_ file.
