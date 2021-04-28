@@ -1,5 +1,5 @@
 ### Datasets
-The folder contains provided by stakeholders, scraped, and transformed for several analysis datasets. The folder has also datasets with information about airports, COVID-19 cases, and populations that were used in the analysis.
+The folder contains provided by stakeholders, scraped, and transformed for several analysis datasets. The folder has also datasets with information about airports that were used in the analysis.
 
 ### Scripts  
 1. _RW_airports_merging:_ merging process of the airport information using several approaches. Different combinations of information about airport codes, airport name, city, and state were used as a primary key for joining. The outcome is a joined information about the airport code, city, state, and country for each record. 
