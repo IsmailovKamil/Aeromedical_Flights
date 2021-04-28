@@ -14,7 +14,7 @@
 ## [FW (aircrafts with the fixed wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
 The folder contains datasets, scripts, images, and Tableau dashboards realted to the aircrafts with the fixed wings.
 
-## [RW (aircraft with the rotary wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
+## [RW (aircrafts with the rotary wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
 The folder contains datasets, scripts, images, and Tableau dashboards realted to the aircrafts with the rotary wings.
 
 ## [Modules](https://github.com/IsmailovKamil/Capstone_Project/tree/main/Modules)
