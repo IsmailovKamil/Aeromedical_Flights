@@ -9,7 +9,7 @@ The folder contains provided by stakeholders, scraped, and transformed for sever
 5. _FW Tracker:_ creating a dataset for the tracking system in a Tableau.
 6. _FW_IHC:_ subsetting and cleaning the dataset which contains information only about the "Intermountain Healthcare" service. Flights analysis of the "Intermountain Healthcare."  
 7. _ILS and LPVorPV/Airport Analysis:_ Merging of additional airport information for the "ILS" and "LPV or PV" aviation systems analysis. Hypothesis testing of "ILS" and "LPV or PV" systems.
-8. FW cluster analysis: K-means cluster analysis of the flights.
+8. _FW cluster analysis:_ K-means cluster analysis of the flights.
 
 ### Tableau DB
 The folder contains created dashboards in a Tableau Desktop. The dashboards represent exploratory data analysis. 
