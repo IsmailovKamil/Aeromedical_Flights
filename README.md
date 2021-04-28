@@ -12,9 +12,10 @@
 - The project aims to provide insights on the operations of current aeromedical services and predict flight demand for the next few days.
 
 ## [FW (aircrafts with the fixed wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
-FW folders contain datasets, scripts, images, and Tableau dashboards.
+The folder contains datasets, scripts, images, and Tableau dashboards realted to the aircrafts with the fixed wings.
 
 ## [RW (aircraft with the rotary wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
+The folder contains datasets, scripts, images, and Tableau dashboards realted to the aircrafts with the rotary wings.
 
 ## [Modules](https://github.com/IsmailovKamil/Capstone_Project/tree/main/Modules)
 The represented modules are intended to scrape, convert, and extract datasets about flight history. Detailed information about the modules is provided in the folder. 
