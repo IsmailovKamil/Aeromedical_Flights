@@ -11,8 +11,10 @@
 - The accessibility to health and medical services for rural residents is reduced. 
 - The project aims to provide insights on the operations of current aeromedical services and predict flight demand for the next few days.
 
-## FW/RW folder
-FW and RW folders contain datasets, scripts, images, and Tableau dashboards.
+## [FW (aircrafts with the fixed wings](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
+FW folders contain datasets, scripts, images, and Tableau dashboards.
 
-## Modules folder
+## [RW (aircraft with the rotary wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
+
+## [Modules](https://github.com/IsmailovKamil/Capstone_Project/tree/main/Modules)
 The represented modules are intended to scrape, convert, and extract datasets about flight history. Detailed information about the modules is provided in the folder. 
