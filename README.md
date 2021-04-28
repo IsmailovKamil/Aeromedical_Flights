@@ -8,9 +8,9 @@
 
 ![image](https://imengine.prod.srp.navigacloud.com/?uuid=5767DB21-3A75-4B94-B501-1C0B9D4B70D2&type=primary&q=72&width=1024)
 
+The accessibility to health and medical services for rural residents is reduced. The project aims to provide insights on the operations of current aeromedical services and predict flight demand for the next few days.
+
 ## Problem Statement: 
-- The accessibility to health and medical services for rural residents is reduced. 
-- The project aims to provide insights on the operations of current aeromedical services and predict flight demand for the next few days.
 - Machine Learning Models to predict the flight demand and need for ILS equipment at the airports.
 - Examine the number of flights from/to Origin/Destination.
 - Perform Cluster Analysis of flights from/to Origin/Destination.
