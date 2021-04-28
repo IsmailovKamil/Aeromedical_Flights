@@ -1,5 +1,17 @@
-# Capstone_Project
+# Air Medical Service Flights Analysis - Capstone Project
+---
+## Problem Context:
+**Domain:** Air Medical Services and Health Care\
+**End - Users:** Aeromedical Service Providers and the Federal Government\
+**Importance of problem:** 
+- Aeromedical flights play a crucial role in offering services to the rural areas that lack healthcare benefits.
+- Hospitals operating in cities are vital to the quality of life and economy of communities throughout the region.
 
+## Problem Statement: 
+- The accessibility to health and medical services for rural residents is reduced. 
+- The project aims to provide insights on the operations of current aeromedical services and predict flight demand for the next few days.
+
+## FW/RW
 FW and RW folders contain datasets, scripts, images, and Tableau dashboards.
 
 Script description in "Script" folder of RW/FW:  
